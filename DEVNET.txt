@@ -1,1 +1,1 @@
-$ I'm a git wizard now
+I'm a git beginner now
